@@ -1,8 +1,12 @@
 
 $i: !important;
 
-body img.emoji[title^="#{$emoji_prefix}"] {
+body img.emoji[title^=":#{$emoji_prefix}"] {
     width: $width $i;
     height: $height $i;
     margin: 1px $i;
+}    
+.emoji-picker button.emoji[title^="#{$emoji_prefix}"] {
+    width: $width $i;
+    height: $height $i;
 }    
