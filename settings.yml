@@ -1,6 +1,6 @@
 emoji_prefix:
   default: ""
-  type: string
+  type: list
   description:
     en: "The prefix for your custom emoji."
 width:
