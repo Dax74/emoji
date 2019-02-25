@@ -4,11 +4,11 @@ emoji_prefix:
   description:
     en: "The prefix for your custom emoji."
 width:
-  default: ""
+  default: "auto"
   description:
     en: "Width for your custom emoji."
 height:
-  default: ""
+  default: "auto"
   description:
     en: "Height for your custom emoji."
 
